@@ -2,7 +2,7 @@
 
 My name is Soor Hansalia and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about learning new technologies and making cool things. Additionally, I love cooking, working out, and niche personal finance hacks💰.
 
-If you have any cool project ideas👨‍💻 or want to discuss why cast iron pans are the best pans🍳, please reach out!
+If you have any interesting project ideas👨‍💻 or want to discuss why cast iron pans are the best pans🍳, please reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soor-hansalia/)
 
