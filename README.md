@@ -1,4 +1,4 @@
-## Hello, world!👋
+## Hello!👋
 
 My name is Soor Hansalia and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about learning new technologies and making cool things. Additionally, I love cooking, working out, and niche personal finance hacks💰.
 
