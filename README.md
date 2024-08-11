@@ -7,7 +7,7 @@ If you have any interesting project ideas👨‍💻 or want to discuss why cast
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soor-hansalia/)
 
 ## Experience
-- 🍓 Undergrad Research Assistant - Wang Plant Phenomics Lab
+- 🍓 Computer Vision Research Assistant - Wang Plant Phenomics Lab
   
 ## Languages
 <div flex=row justify-content=center>
