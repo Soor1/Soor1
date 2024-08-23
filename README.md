@@ -5,6 +5,7 @@ My name is Soor Hansalia and I'm a Computer Science major at the University of F
 If you have any interesting project ideas👨‍💻 or want to discuss why cast iron pans are the best pans🍳, please reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soor-hansalia/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](soorhansaliajobs@gmail.com)
 
 ## Experience
 - 🍓 Computer Vision Research Assistant - Wang Plant Phenomics Lab
